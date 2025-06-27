@@ -37,7 +37,7 @@ A Python-based tool that extracts structured data from Excel files using multi-t
 - Change the directory name in `main.py` (line 35) to match your project structure.
 
     ```
-    DIR = "D:\Github\Kazakhstan-Crime-Data-Data-Extractor"
+    DIR = "D:/Github/Kazakhstan-Crime-Data-Data-Extractor"
     ```
 - Make sure all the slashes are forward slashes (`/`) to avoid path issues.'
 
